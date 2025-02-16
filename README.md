@@ -73,7 +73,7 @@
 
 ### 🔥 GitHub Stats  
 
-<img align="right" width="38%" src="raidenSkills.png"/>
+<img align="right" width="38%" src="raidenSkills.jpg"/>
 
 <a href="https://github.com/moraistp">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=moraistp&theme=dracula&title_color=ff3068">
