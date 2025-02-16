@@ -82,7 +82,7 @@
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraistp&show_icons=true&theme=dracula&layout=compact" alt="Top Langs" style="width: 100%; border-radius: 10px;">
     </td>
-    <td style="text-align: center; vertical-align: middle;">
+    <td style="text-align: center; vertical-align: middle; width: 40%;">
       <img src="raidenSkills.jpg" alt="Raiden Shogun" style="max-width: 300px; border-radius: 10px;">
     </td>
   </tr>
