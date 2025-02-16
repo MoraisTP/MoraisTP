@@ -73,17 +73,16 @@
 
 ### 🔥 GitHub Stats  
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <!-- Stats -->
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraistp&theme=dracula" alt="GitHub Streak Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=moraistp&show_icons=true&theme=dracula" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraistp&show_icons=true&theme=dracula&layout=compact" alt="Top Langs" />
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+  <div style="width: 60%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraistp&theme=dracula" alt="GitHub Streak Stats" style="width: 100%; border-radius: 10px; margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=moraistp&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 100%; border-radius: 10px; margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraistp&show_icons=true&theme=dracula&layout=compact" alt="Top Langs" style="width: 100%; border-radius: 10px;">
   </div>
 
-  <!-- Image -->
   <div>
-    <img src="raidenSkills.jpg" alt="Raiden Shogun" style="max-width: 250px; border-radius: 10px;">
+    <img src="raidenSkills.png" alt="Raiden Shogun" style="max-width: 300px; border-radius: 10px;">
   </div>
 </div>
+
 
