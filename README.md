@@ -86,5 +86,5 @@
 </p>
 
 <p align="center">
-  <img src="raidenSkills.png" alt="Custom Image" width="300"/>
+  <img src="raidenSkills.jpg" alt="Custom Image" width="300"/>
 </p>
