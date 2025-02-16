@@ -81,7 +81,7 @@
   </div>
 
   <div>
-    <img src="raidenSkills.png" alt="Raiden Shogun" style="max-width: 300px; border-radius: 10px;">
+    <img src="raidenSkills.jpg" alt="Raiden Shogun" style="max-width: 300px; border-radius: 10px;">
   </div>
 </div>
 
