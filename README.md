@@ -5,11 +5,12 @@
 <h1 align="center">Hi 👋, I'm MoraisTP</h1>
 <h3 align="center">A passionate developer & student from France</h3>
 
-<p align="center">
-[  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=moraistp&theme=onedark" alt="GitHub Trophies"/>
-  </a>](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=moraistp&theme=dracula" alt="moraistp" />
+  </a>
 </p>
+
 
 ---
 
