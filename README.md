@@ -72,10 +72,19 @@
 ---
 
 ### 🔥 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraistp&show_icons=true&theme=dark&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moraistp&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moraistp&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraistp&theme=dracula" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraistp&show_icons=true&theme=dracula&layout=compact" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="raidenSkills.png" alt="Custom Image" width="300"/>
 </p>
