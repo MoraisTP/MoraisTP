@@ -73,16 +73,20 @@
 
 ### 🔥 GitHub Stats  
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-  <div style="width: 60%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraistp&theme=dracula" alt="GitHub Streak Stats" style="width: 100%; border-radius: 10px; margin-bottom: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=moraistp&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 100%; border-radius: 10px; margin-bottom: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraistp&show_icons=true&theme=dracula&layout=compact" alt="Top Langs" style="width: 100%; border-radius: 10px;">
-  </div>
+<table>
+  <tr>
+    <td style="width: 60%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraistp&theme=dracula" alt="GitHub Streak Stats" style="width: 100%; border-radius: 10px;">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=moraistp&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 100%; border-radius: 10px;">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraistp&show_icons=true&theme=dracula&layout=compact" alt="Top Langs" style="width: 100%; border-radius: 10px;">
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <img src="raidenSkills.jpg" alt="Raiden Shogun" style="max-width: 300px; border-radius: 10px;">
+    </td>
+  </tr>
+</table>
 
-  <div>
-    <img src="raidenSkills.jpg" alt="Raiden Shogun" style="max-width: 300px; border-radius: 10px;">
-  </div>
-</div>
 
 
