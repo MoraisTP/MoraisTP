@@ -73,19 +73,19 @@
 
 ### 🔥 GitHub Stats  
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Stats -->
-  <div style="width: 50%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraistp&theme=dracula" alt="GitHub Streak Stats" style="width: 100%; border-radius: 10px; margin-bottom: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=moraistp&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 100%; border-radius: 10px; margin-bottom: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraistp&show_icons=true&theme=dracula&layout=compact" alt="Top Langs" style="width: 100%; border-radius: 10px;">
-  </div>
+<img align="right" width="38%" src="raidenSkills.png"/>
 
-  <!-- Image Raiden -->
-  <div>
-    <img src="raidenSkills.png" alt="Raiden Shogun" style="max-width: 300px; border-radius: 10px;">
-  </div>
-</div>
+<a href="https://github.com/moraistp">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=moraistp&theme=dracula&title_color=ff3068">
+</a>
+
+<a href="https://github.com/moraistp">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=moraistp&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
+</a>
+
+<a href="https://github.com/moraistp">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraistp&show_icons=true&theme=dracula&layout=compact">
+</a>
 
 
 
