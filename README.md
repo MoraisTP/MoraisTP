@@ -15,7 +15,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 I’m currently learning **PHP and JavaScript**  
+- 🌱 I’m currently learning **Python**  
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/MoraisTP)  
 - 📫 Reach me at **morais.pedro@outlook.fr**  
 - ⚡ Fun fact: **I'm turning my passion into a career!**  
